@@ -17,7 +17,7 @@
 
 ### 💻 Coding Profiles
 <a href="https://codeforces.com/profile/PrimeSolverXP" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PrimeSolverXP&theme=github_dark&force_username=true&border_color=404040" alt="Jenil_01 Codeforces Stats" height="316"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=PrimeSolverXP&theme=github_dark&force_username=true&border_color=404040" alt="PrimeSolverXp Codeforces Stats" height="316"/>
 </a>
 
 
