@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=KrishChothani&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-- 🎓 2nd-year Computer Science student at Nirma University.
+- 🎓 3rd-year Computer Science student at Nirma University.
 - 🌱 Currently exploring new technologies and working on personal projects.
 - 👨‍💻 Active problem solver on **Codeforces** (Expert rank).
 
